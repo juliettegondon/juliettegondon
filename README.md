@@ -1,9 +1,32 @@
 ### Hi there 👋
 
 
-<a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing">
-    <img src="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+
+| Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing"><img src="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing" width="540" height="64"></a> |
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Top Tracks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/top-tracks?i=1&open"><img src="https://gitify-krqtzr84e-juliettegondon.vercel.app/top-tracks?i=1&open" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/top-tracks?i=2&open"><img src="https://gitify-krqtzr84e-juliettegondon.vercel.app/top-tracks?i=2&open" width="540" height="64"></a></td>
+    </tr>
+    <tr></tr> <!-- hide gray row -->
+    <tr>
+      <td><a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/top-tracks?i=3&open"><img src="https://gitify-krqtzr84e-juliettegondon.vercel.app/top-tracks?i=3&open" width="540" height="64"></a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!--
 **juliettegondon/juliettegondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
