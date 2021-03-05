@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+<a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playingn">
+    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 <!--
 **juliettegondon/juliettegondon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
