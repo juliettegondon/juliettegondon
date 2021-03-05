@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playingn">
+<a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing">
     <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
 </a>
 
