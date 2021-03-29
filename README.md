@@ -9,9 +9,9 @@
 
 
 
-- 🤓 I’m currently learning React Hooks & TypeScript! 
-- 👯 I’m looking to collaborate on ... something fun & funky. Bonus points if it involves music or plants! 🌱 
-- 🤔 I’m looking for help with ... finding a junior developer position
+- 🤓 I’m currently learning React! 
+- 👯 I’m looking to collaborate on an app that involves music or plants! 🌱 
+- 🤔 I’m looking for help with ... finding a junior developer position... pls
 - 💬 Ask me about ... my favorite bands 🎶
 - 📫 How to reach me: [email](mailto:juliettegondon@gmail.com) or carrier pigeon
 - 😄 Pronouns:  she/her
