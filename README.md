@@ -9,7 +9,7 @@
 
 
 
-- 🤓 I’m currently learning React! 
+- 🤓 I’m currently learning AWS and sharpening my skills in React! 
 - 👯 I’m looking to collaborate on an app that involves music or plants! 🌱 
 - 🤔 I’m looking for help with ... finding a junior developer position... pls
 - 💬 Ask me about ... my favorite bands 🎶
