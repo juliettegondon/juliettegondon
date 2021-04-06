@@ -3,10 +3,6 @@
 
 
 
-| Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing"><img src="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing" width="540" height="64"></a> |
-
 
 
 - 🤓 I’m currently learning AWS and sharpening my skills in React! 
@@ -17,3 +13,6 @@
 - 😄 Pronouns:  she/her
 - ⚡ Fun fact: I have a freckle on my eyeball! 
 
+| Now Playing                                                                                                                    |
+| ------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing"><img src="https://gitify-krqtzr84e-juliettegondon.vercel.app/now-playing" width="540" height="64"></a> |
